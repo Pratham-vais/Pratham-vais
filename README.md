@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pratham-vais
+- 👋 Hi, I’m @Pratham-vaish
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on... 
